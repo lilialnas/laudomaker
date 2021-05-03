@@ -1,6 +1,5 @@
 # laudomaker
-Sistema de elaboração de laudos periciais para computação forense
-A proposta do sistema em questão é elaborar um modelo de laudo para alguns casos comuns. 
+Sistema de elaboração de laudos periciais para computação forense. A proposta do sistema em questão é elaborar um modelo de laudo para alguns casos comuns de exames periciais.
 
 Principais funcionalidades
 Cadastrar usuário/perito
