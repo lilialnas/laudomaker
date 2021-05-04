@@ -3,5 +3,9 @@ Sistema de elaboração de laudos periciais para computação forense. A propost
 
 Principais funcionalidades
 Cadastrar usuário/perito
-Cadastrar equipamento e seu tipo (Celular, tablet, notebook, cartão de memória)
-Gerar e manter modelo de laudo
+Cadastrar tipo de equipamento (Celular, tablet, notebook, cartão de memória)
+Cadastrar equipamento (informações únicas ao equipamento como: IMEI, marca, modelo, capacidade, fotos do equipamento e outros)
+Gear laudo em modelo editável (.docx)
+Manter laudo (Cadastrar, editar, excluir, listar)
+Gerar Relatórios (Laudos pendentes, laudos entregues
+
