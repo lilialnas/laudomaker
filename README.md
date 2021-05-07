@@ -10,3 +10,4 @@ Manter laudo (Cadastrar, editar, excluir, listar)
 Gerar Relatórios (Laudos pendentes, laudos entregues
 
 mandand um arquivo
+atualiando na web
