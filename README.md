@@ -9,3 +9,4 @@ Gear laudo em modelo editável (.docx)
 Manter laudo (Cadastrar, editar, excluir, listar)
 Gerar Relatórios (Laudos pendentes, laudos entregues
 
+mandand um arquivo
