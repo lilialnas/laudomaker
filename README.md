@@ -7,7 +7,6 @@ Cadastrar tipo de equipamento (Celular, tablet, notebook, cartão de memória)
 Cadastrar equipamento (informações únicas ao equipamento como: IMEI, marca, modelo, capacidade, fotos do equipamento e outros)
 Gear laudo em modelo editável (.docx)
 Manter laudo (Cadastrar, editar, excluir, listar)
-Gerar Relatórios (Laudos pendentes, laudos entregues
+Gerar Relatórios (Laudos pendentes, laudos entregues)
 
-mandand um arquivo
-atualiando na web
+
