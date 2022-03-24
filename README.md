@@ -7,7 +7,7 @@ Sistema de elaboração de laudos periciais para computação forense. A propost
 * Cadastrar usuário/perito
 * Cadastrar tipo de equipamento (Celular, tablet, notebook, cartão de memória)
 * Cadastrar equipamento (informações únicas ao equipamento como: IMEI, marca, modelo, capacidade, fotos do equipamento e outros)
-* Gear laudo em modelo editável (.docx)
+* Gerar laudo em modelo editável (.docx)
 * Manter laudo (Cadastrar, editar, excluir, listar)
 * Gerar Relatórios (Laudos pendentes, laudos entregues)
 
